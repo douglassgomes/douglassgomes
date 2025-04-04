@@ -11,7 +11,7 @@ Um velho graduado em computação buscando retomar os estudos na área, paralela
 
 ### Áreas e Ferramentas de Interesse
 
-![GNU/Linux](https://img.shields.io/badge/gnu/linux-000?style=for-the-badge&logo=linux&logoColor=fff)</br>
+![GNU/Linux](https://img.shields.io/badge/gnu/linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)</br>
 ![/bin/bash](https://img.shields.io/badge/shell-script-000?style=for-the-badge&logo=shell&logoColor=5495E)</br>
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow)</br>
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/douglassgomes)</br>
