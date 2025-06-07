@@ -7,7 +7,7 @@
 Um velho graduado em computação buscando retomar os estudos na área, paralelamente a minha atividade principal, depois de muito tempo trilhando outros caminhos, mas sem deixar a chama apagar...
 
 - 🔭 Atualmente estou trabalhando em projetos de desenvolvimento de paineis com Qlik Sense
-- 🌱 Procuro estar em constante aprendizado e atualmente estou retomando o estudo de computação com GNU/Linux e Python
+- 🌱 Procuro estar em constante aprendizado e atualmente estou retomando o estudo de computação com GNU/Linux, Python e alguns conceitos e ferramentas relacionados à Inteligência Artificial.
 
 ### Áreas e Ferramentas de Interesse
 
